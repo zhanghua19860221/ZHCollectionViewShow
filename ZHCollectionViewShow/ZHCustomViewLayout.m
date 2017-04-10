@@ -63,7 +63,7 @@
 }
 /**
  滚动停止时，滚动慢慢停止并停留在某一个item上的效果
- 
+ //
  */
 - (CGPoint)targetContentOffsetForProposedContentOffset:(CGPoint)proposedContentOffset withScrollingVelocity:(CGPoint)velocity
 {
